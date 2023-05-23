@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, JavaScript, React**
 
-- 💬 Ask me about **You can ask me anything about tech and we can discuss, improve our knowledge, make some research...**
+- 💬 **You can ask me anything about tech and we can discuss, improve our knowledge, make some research...**
 
 - 📫 How to reach me **fth.sylp@gmail.com**
 
