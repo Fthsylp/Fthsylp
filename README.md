@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fthsylp" target="blank"><img src="https://img.shields.io/twitter/follow/fthsylp?logo=twitter&style=for-the-badge" alt="fthsylp" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, JavaScript, React**
+- 🌱 I’m currently learning **C#, JavaScript, .Net Core**
 
 - 💬 **You can ask me anything about tech and we can discuss, improve our knowledge, make some research together...**
 
