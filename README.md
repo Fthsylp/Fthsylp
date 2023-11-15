@@ -36,9 +36,6 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/your-username/your-repository-name/master/path/to/image1.svg" alt=".NET" width="40" height="40"/>
 </a>
-<a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository-name/master/path/to/image2.svg" alt="MVC" width="40" height="40"/>
-</a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL" width="40" height="40"/>
   </a>
