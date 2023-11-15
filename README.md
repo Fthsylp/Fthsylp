@@ -43,8 +43,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 </a>
 
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fthsylp&show_icons=true&locale=en&layout=compact" alt="fthsylp" /></p>
 
