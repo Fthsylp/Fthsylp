@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih </h1> 
 <div align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align = "right" width="400"></div>
-<br> A passionate fullstack developer from Türkiye <br> - 🌱 I’m currently learning C#, JavaScript, .Net Core
+<br> A passionate fullstack/backend developer from Türkiye <br> - 🌱 I’m currently learning C#, JavaScript, .Net Core
 <br>- 📫 How to reach me <a href="mailto:fth.sylp@gmail.com">fth.sylp@gmail.com</a>
 
 
